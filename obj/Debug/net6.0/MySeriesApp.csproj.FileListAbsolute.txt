@@ -1,0 +1,15 @@
+C:\workspace\CSharpDio\MySeriesApp\bin\Debug\net6.0\MySeriesApp.exe
+C:\workspace\CSharpDio\MySeriesApp\bin\Debug\net6.0\MySeriesApp.deps.json
+C:\workspace\CSharpDio\MySeriesApp\bin\Debug\net6.0\MySeriesApp.runtimeconfig.json
+C:\workspace\CSharpDio\MySeriesApp\bin\Debug\net6.0\MySeriesApp.dll
+C:\workspace\CSharpDio\MySeriesApp\bin\Debug\net6.0\MySeriesApp.pdb
+C:\workspace\CSharpDio\MySeriesApp\obj\Debug\net6.0\MySeriesApp.csproj.AssemblyReference.cache
+C:\workspace\CSharpDio\MySeriesApp\obj\Debug\net6.0\MySeriesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\CSharpDio\MySeriesApp\obj\Debug\net6.0\MySeriesApp.AssemblyInfoInputs.cache
+C:\workspace\CSharpDio\MySeriesApp\obj\Debug\net6.0\MySeriesApp.AssemblyInfo.cs
+C:\workspace\CSharpDio\MySeriesApp\obj\Debug\net6.0\MySeriesApp.csproj.CoreCompileInputs.cache
+C:\workspace\CSharpDio\MySeriesApp\obj\Debug\net6.0\MySeriesApp.dll
+C:\workspace\CSharpDio\MySeriesApp\obj\Debug\net6.0\refint\MySeriesApp.dll
+C:\workspace\CSharpDio\MySeriesApp\obj\Debug\net6.0\MySeriesApp.pdb
+C:\workspace\CSharpDio\MySeriesApp\obj\Debug\net6.0\MySeriesApp.genruntimeconfig.cache
+C:\workspace\CSharpDio\MySeriesApp\obj\Debug\net6.0\ref\MySeriesApp.dll
